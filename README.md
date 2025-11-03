@@ -32,6 +32,6 @@ Later, I’ll add **CSS** for styling and possibly use **JavaScript** to make th
 
 ---
 
-**Author:** *Your Name*  
+**Author:** GS 
 **Course:** [The Odin Project – Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
