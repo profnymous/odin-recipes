@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+body {
+    background-color: lightblue;
+}
+img {
+    display: inline-block;
+    width: 180px;
+}
+div {
+    border: 2px solid white;
+    padding: 20px;
+}
+
+div .feature{
+    background-color: rgb(rgb(159, 194, 225), green, blue);
+}
+
+.description,
+.ingredients,
+.steps{
+    padding: 0;
+    margin-right: -10;
+    margin-top: 12px;
+    background-color: lightpink;
+    text-align: justify;
+    color: antiquewhite;
+}
+
+ul{
+    list-style-type:circle;
+}
+
+/* .highlight{
+    background-color: white;
+    margin: 0, auto;
+} */
